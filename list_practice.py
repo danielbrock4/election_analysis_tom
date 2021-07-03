@@ -226,7 +226,7 @@ total_votes = int(input("What is the total number of votes in the election? "))
 message_to_candidate = (
     f"You recieved {candidate_votes} number of votes."
     f"The total number of votes n the election was {total_votes}."
-    f"You recieved {candidate_votes / total_votes * 100:.2f}% of the total number of votes")
+    f"You recieved {candidate_votes / total_votes * 100:.2f}% of the total number of votes.\n")
     
 print(message_to_candidate)    
 
