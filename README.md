@@ -17,6 +17,8 @@ The Colorado Board of Election assigned Tom and me to work together. The Board h
 5) Determine the winner of the election based on the popular vote.
 6) Determine the largest county turnout based on the popular vote. 
 
+The Board would like us to use Python so that we may automate this process for future elections.
+
 ### Election-Audit Results 
 
 [Election-Audit Results Link](analysis/election_analysis.txt)
