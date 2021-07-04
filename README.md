@@ -1,5 +1,12 @@
 # ELECTION ANALYSIS
+## Resources
+
+- **Data Source:** election_results.csv
+- **Software:** Python 3.8.8, Visual Studio Code
+
 ## Project Overview
+
+### Overview of the Project
 
 A Colorado Board of Elections employee has given you the following task to complete the election audit of a recent local congressional election.
 
@@ -9,12 +16,7 @@ A Colorado Board of Elections employee has given you the following task to compl
 4)  Calculate the percent total number of votes each candidate won.
 5)  Determine the winner of the election based on the popular vote.
 
-## Resources
-
-- **Data Source:** election_results.csv
-- **Software:** Python 3.8.8, Visual Studio Code
-
-## Summary 
+## Project Summary
 
 The analysis of the election shows that:
 
@@ -44,5 +46,6 @@ The Colorado Board of Election assigned Tom and me to work together. The Board h
 
 While the audit is generally done in excel, the Board wants us to use Python to automate this process and apply it to future elections and more significant elections. Excel is only limited to a million rows, so once the results are compiled into the CSV file, we wouldn't be able to do the audit on more significant elections like Senate races. Therefore, completing the audit in Python is the best method to conducting the audit.
 
+### Election-Audit Results 
 
 ## Challenge Summary
