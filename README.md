@@ -21,6 +21,8 @@ The Colorado Board of Election assigned Tom and me to work together. The Board h
 
 The analysis of the election shows that:
 
+[Link to Results](Resources/election_analysis.txt)
+
 - There were 369,711 votes cast in the election.
 - The counties were:
   - Jefferson
