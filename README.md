@@ -41,6 +41,7 @@ I have been assigned to work with Tom at Colorado Board of Election. The Board h
   - County
 3) Largest Turnout Amoung All the Counties
 4) The Winnner of the Election
+
 While this could be done in excel, the Board wants us to use Python, so we can automate this process and apply to future elections and larger elections. Excel only limited to a million rows, so once the results compiled into the csv file then we wouldn't be able to do the audit on larger elections like Senate races. This makes Python the best method to completing the audit. 
 
 ## Challenge Summary
