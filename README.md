@@ -48,4 +48,29 @@ While the audit is generally done in excel, the Board wants us to use Python to 
 
 ### Election-Audit Results 
 
+The analysis of the election shows that:
+
+- There were 369,711 votes cast in the election.
+- The counties were:
+  - Jefferson
+  - Denver
+  - Arapahoe
+- The county results:
+  - Jefferson received 10.5% of the vote and 38,855 votes.
+  - Denver received 82.8% of the vote and 306,055 votes.
+  - Arapahoe received 6.7% of the vote and 24,801 votes.
+- The largest county turnout was:
+  - Denver received 82.8% of the vote and 306,055 votes.
+- The candidates were:
+  - Charles Casper Stockham
+  - Diana DeGette
+  - Raymon Anthony Doane 
+- The candidate results were:
+  - Charles Casper Stockham received 23.0% of the vote and 85,213 votes.
+  - Diana DeGette received 73.8% of the vote and 272,892 votes.
+  - Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
+- The winner of the election was:
+  - Diana DeGette received 73.8% of the vote and 272,892 votes.
+
+
 ## Challenge Summary
