@@ -19,9 +19,9 @@ The Colorado Board of Election assigned Tom and me to work together. The Board h
 
 ### Election-Audit Results 
 
-The analysis of the election shows that:
-
 [Election-Audit Results Link](analysis/election_analysis.txt)
+
+The analysis of the election shows that:
 
 - There were 369,711 votes cast in the election.
 - The counties were:
