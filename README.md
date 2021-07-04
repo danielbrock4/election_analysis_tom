@@ -47,4 +47,7 @@ The analysis of the election shows that:
 
 ### Election-Audit Summary
 
-While the audit is generally done in excel, the Board wants us to use Python to automate this process and apply it to future elections and more significant elections. Excel is only limited to a million rows, so once the results are compiled into the CSV file, we wouldn't be able to do the audit on more significant elections like Senate races. Therefore, completing the audit in Python is the best method to conducting the audit.
+While the audit is generally done in excel, the Board wants us to use Python to automate this process and apply it to future elections and larger elections like Senate races. Excel is only limited to a million rows, so once the results are compiled into the CSV file, we wouldn't be able to do the audit on more significant elections like Senate races. Therefore, completing the audit in Python is the best method to conducting the audit for elections with more than a million votes cast.
+
+
+
