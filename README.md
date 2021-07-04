@@ -39,8 +39,8 @@ The analysis of the election shows that:
 The Colorado Board of Election assigned Tom and me to work together. The Board has tasked us with completing an audit of a congressional precinct in Colorado.  The audit includes calculating the:
 1) Total Number Votes
 2) The Percentage and Number of Votes For Each:
-  - Candidate
-  - County
+    - Candidate
+    - County
 3) Largest Turnout Among All the Counties
 4) The Winner of the Election
 
