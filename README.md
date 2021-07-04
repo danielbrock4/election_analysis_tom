@@ -1,5 +1,5 @@
 # ELECTION ANALYSIS
-##Project Overview
+## Project Overview
 
 A Colorado Baord of Elections employee has given you the follwing task to complete the election audit of a recent local congressional election.
 
@@ -16,14 +16,14 @@ A Colorado Baord of Elections employee has given you the follwing task to comple
 
 ## Summary 
 
-The analysis of gthe elction show that:
+The analysis of the election show that:
 
 - There were 369,711 votes cast in the election.
--The candidates:
---Charles Casper Stockham
---Diana DeGette
---Raymon Anthony Doane
--The candidate results were:
+- The candidates:
+-- Charles Casper Stockham
+-- Diana DeGette
+-- Raymon Anthony Doane
+- The candidate results were:
 
 
 ## hello world
