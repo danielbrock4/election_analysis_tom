@@ -8,7 +8,7 @@
 
 ### Overview of Election Audit
 
-The Colorado Board of Election assigned Tom and me to work together. The Board has tasked us with completing an audit of a congressional precinct in Colorado.  The audit includes calculating the:
+The Colorado Board of Election assigned Tom and me to work together. The Board has tasked us with completing an audit of a congressional precinct in Colorado using Python so that they may automate the auditing process for future elections. The audit includes calculating the:
 
 1) Calculate the total number of votes cast.
 2) Get a complete list of candidates and counties who received votes
@@ -17,7 +17,6 @@ The Colorado Board of Election assigned Tom and me to work together. The Board h
 5) Determine the winner of the election based on the popular vote.
 6) Determine the largest county turnout based on the popular vote. 
 
-The Board would like us to use Python so that we may automate this process for future elections.
 
 ### Election-Audit Results 
 
