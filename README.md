@@ -21,7 +21,7 @@ The Colorado Board of Election assigned Tom and me to work together. The Board h
 
 The analysis of the election shows that:
 
-[Results Summary Link](analysis/election_analysis.txt)
+[Election-Audit Results Link](analysis/election_analysis.txt)
 
 - There were 369,711 votes cast in the election.
 - The counties were:
@@ -45,7 +45,7 @@ The analysis of the election shows that:
 - The winner of the election was:
   - Diana DeGette received 73.8% of the vote and 272,892 votes.
 
-![Results Summary](Resources/results_from_python.png)
+![Results Summary](Resources/Results_from_python.PNG)
 
 ## Challenge Summary
 
