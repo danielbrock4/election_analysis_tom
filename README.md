@@ -21,7 +21,7 @@ The Colorado Board of Election assigned Tom and me to work together. The Board h
 
 The analysis of the election shows that:
 
-[Link to Results](analysis/election_analysis.txt)
+[Results Summary Link](analysis/election_analysis.txt)
 
 - There were 369,711 votes cast in the election.
 - The counties were:
@@ -44,6 +44,8 @@ The analysis of the election shows that:
   - Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
 - The winner of the election was:
   - Diana DeGette received 73.8% of the vote and 272,892 votes.
+
+![Results Summary](Resources/results_from_python.png)
 
 ## Challenge Summary
 
