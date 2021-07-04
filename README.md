@@ -1,7 +1,7 @@
 # ELECTION ANALYSIS
 ## Resources
 
-- **Data Source:** election_results.csv
+- **Data Source:** [election_results.csv](Resources/election_results.csv)
 - **Software:** Python 3.8.8, Visual Studio Code
 
 ## Challenge Overview
