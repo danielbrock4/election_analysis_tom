@@ -30,3 +30,5 @@ message_to_candidate = (
     f"You recieved {candidate_votes / total_votes * 100:.2f}% of the total number of votes")
     
 print(message_to_candidate)    
+
+
